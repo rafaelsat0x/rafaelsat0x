@@ -4,10 +4,3 @@
 </div>
 
 ### Hi there 👋
-
-Hey!! Welcome, stay as long as you like here.
-
-<p height="200px">- 🌱 Currently learning HTML & CSS</p>
-<p>- 🐈 Cat lover</p>
-<p>- 📖 PT/ENG</p>
-<p>- 🏢 High schooler</p>
