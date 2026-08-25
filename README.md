@@ -28,7 +28,8 @@ NeoVim <br>
 </p>
 </p>
 </p>
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rafaelsat0x&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=rafaelsat0x&layout=compact&langs_count=4&theme=tokyonight)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rafaelsat0x&hide_rank=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=rafaelsat0x&hide_rank=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+<p align="center">
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs?username=rafaelsat0x&amp;layout=compact&amp;langs_count=4&amp;theme=tokyonight">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=rafaelsat0x&amp;hide_rank=true&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight">
+</p>
