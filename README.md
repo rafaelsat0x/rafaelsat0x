@@ -7,6 +7,7 @@
 📫 &nbsp;Always open to interesting problems, feedback, and discussion — reach out anytime!</p>
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
+<img src="https://img.shields.io/badge/-Lua-05122A?style=flat&amp;logo=lua&amp;logoColor=2C2D72" alt="Lua">&nbsp;
 <img src="https://img.shields.io/badge/-Django-05122A?style=flat&amp;logo=django&amp;logoColor=092E20" alt="Django">&nbsp;
 <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&amp;logo=postgresql" alt="PostgreSQL">&nbsp;
 <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL">&nbsp;
@@ -16,6 +17,7 @@
 <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&amp;logo=php&amp;logoColor=777BB4" alt="PHP">&nbsp;
 <img src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" alt="React"><br>
 <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">&nbsp;
+<img src="https://img.shields.io/badge/-Neovim-05122A?style=flat&amp;logo=neovim&amp;logoColor=57A143" alt="Neovim">&nbsp;
 <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&amp;logo=docker" alt="Docker">&nbsp;
 <img src="https://img.shields.io/badge/-Podman-05122A?style=flat&amp;logo=podman&amp;logoColor=892CA0" alt="Podman">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
