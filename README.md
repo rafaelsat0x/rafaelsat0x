@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&amp;logo=php&amp;logoColor=777BB4" alt="PHP">&nbsp;
 <img src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" alt="React"><br>
 <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">&nbsp;
-<img src="https://img.shields.io/badge/-Neovim-05122A?style=flat&amp;logo=neovim&amp;logoColor=57A143" alt="Neovim">&nbsp;
 <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&amp;logo=docker" alt="Docker">&nbsp;
 <img src="https://img.shields.io/badge/-Podman-05122A?style=flat&amp;logo=podman&amp;logoColor=892CA0" alt="Podman">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
