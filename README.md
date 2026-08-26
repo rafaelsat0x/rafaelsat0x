@@ -1,7 +1,7 @@
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Rafael</h2><p></p>
 <h3 id="-about-me">&nbsp;About Me</h3>
 <p>🎓 &nbsp;I'm studying Software Engineering at PUCPR in Curitiba, Brazil.<br>
-💼 &nbsp;Developer at NVX Tech, currently building a web platform with Django, PostgreSQL and HTMX.<br>
+💼 &nbsp;Software development intern at NVX Tech, building a web platform with Django, PostgreSQL and HTMX.<br>
 🏡 &nbsp;Love to spend time with my family.<br>
 🎮 &nbsp;Off the clock I'm playing a campaign I'll probably never finish.<br>
 📫 &nbsp;Always open to interesting problems, feedback, and discussion — reach out anytime!</p>
@@ -9,6 +9,7 @@
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-Django-05122A?style=flat&amp;logo=django&amp;logoColor=092E20" alt="Django">&nbsp;
 <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&amp;logo=postgresql" alt="PostgreSQL">&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL">&nbsp;
 <img src="https://img.shields.io/badge/-htmx-05122A?style=flat&amp;logo=htmx" alt="htmx">&nbsp;
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=openjdk" alt="Java">&nbsp;
 <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&amp;logo=spring&amp;logoColor=6DB33F" alt="Spring Boot">&nbsp;
