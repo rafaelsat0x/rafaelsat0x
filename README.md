@@ -25,7 +25,7 @@
 <p>
 Arch Linux <br>
 Hyprland + Noctalia <br>
-NeoVim <br>
+NeoVim + LazyVim <br>
 </p>
 </p>
 </p>
