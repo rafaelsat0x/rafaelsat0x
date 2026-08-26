@@ -1,7 +1,7 @@
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Rafael</h2><p></p>
 <h3 id="-about-me">&nbsp;About Me</h3>
 <p>🎓 &nbsp;I'm studying Software Engineering at PUCPR in Curitiba, Brazil.<br>
-💼 &nbsp;Software development intern at NVX Tech, building a web platform with Django, PostgreSQL and HTMX.<br>
+💼 &nbsp;Software development intern at NVX Tech.<br>
 🏡 &nbsp;Love to spend time with my family.<br>
 🎮 &nbsp;Off the clock I'm playing a campaign I'll probably never finish.<br>
 📫 &nbsp;Always open to interesting problems, feedback, and discussion — reach out anytime!</p>
