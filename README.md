@@ -3,7 +3,7 @@
 <p>🎓 &nbsp;I'm studying Software Engineering at PUCPR in Curitiba, Brazil.<br>
 💼 &nbsp;Software development intern at NVX Tech.<br>
 🏡 &nbsp;Love to spend time with my family.<br>
-🎮 &nbsp;Off the clock I'm playing a campaign I'll probably never finish.<br>
+🎮 &nbsp;Off the clock I'm probably playing a campaign I'll never finish.<br>
 📫 &nbsp;Always open to interesting problems, feedback, and discussion — reach out anytime!</p>
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
