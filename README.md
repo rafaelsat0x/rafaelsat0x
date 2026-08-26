@@ -29,6 +29,7 @@ NeoVim <br>
 </p>
 </p>
 </p>
+<h3 id="-my-stats">📊 &nbsp;My Stats</h3>
 <p align="center">
 <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs?username=rafaelsat0x&amp;layout=compact&amp;langs_count=4&amp;theme=tokyonight">
 &nbsp;&nbsp;&nbsp;&nbsp;
