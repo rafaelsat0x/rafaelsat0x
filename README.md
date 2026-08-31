@@ -4,7 +4,7 @@
 💼 &nbsp;Software development intern at NVX Tech.<br>
 🏡 &nbsp;Love to spend time with my family.<br>
 🎮 &nbsp;Off the clock I'm probably playing a campaign I'll never finish.<br>
-📫 &nbsp;Always open to interesting problems, feedback, and discussion — reach out anytime!</p>
+📫 &nbsp;Always open to connecting and making friends!</p>
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">&nbsp;
 <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">&nbsp;
