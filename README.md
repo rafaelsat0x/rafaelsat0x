@@ -25,7 +25,7 @@
 </a>
 <h3 id="-tech-stack">💻 &nbsp;My Setup</h3>
 <p>
-Fedora Linux
+Fedora Linux<br>
 Sway<br>
 NeoVim + LazyVim <br>
 </p>
