@@ -26,7 +26,7 @@
 <h3 id="-tech-stack">💻 &nbsp;My Setup</h3>
 <p>
 Fedora Linux<br>
-Sway<br>
+Hyprland + Noctalia<br>
 NeoVim + LazyVim <br>
 </p>
 </p>
