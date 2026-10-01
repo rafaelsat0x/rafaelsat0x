@@ -23,12 +23,6 @@
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure"></p>
 </a>
-<h3 id="-tech-stack">💻 &nbsp;My Setup</h3>
-<p>
-Fedora Linux<br>
-Hyprland + Noctalia<br>
-NeoVim + LazyVim <br>
-</p>
 </p>
 </p>
 <h3 id="-my-stats">📊 &nbsp;My Stats</h3>
